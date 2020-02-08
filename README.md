@@ -1,5 +1,4 @@
-# EZ Polling
-Survey web application for Bridge School (Built with Python and Django)
+# EZ Polling(Built with Python and Django)
 
 ![Bridge School Survey](bridgeSurvey.gif)
 
