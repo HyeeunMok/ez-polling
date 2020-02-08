@@ -5,10 +5,10 @@ Survey web application for Bridge School (Built with Python and Django)
 
 ## How to run
 
-**\#Install dependencies**
+**\#Install dependencies** <br />
 pipenv install
 
-cd ez_polling
+cd ez_polling <br />
 
-**\#Serve on localhost:8000**
+**\#Serve on localhost:8000** <br />
 python manage.py runserver
