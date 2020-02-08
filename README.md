@@ -28,7 +28,7 @@ I created an EZ Polling is web application which will allow an administrator fro
 **5. Display result:**  
     Students and the administrator both are able to see the result
 
-## How to run
+# How to run
 
 **\# Install dependencies** <br />
 pipenv install
