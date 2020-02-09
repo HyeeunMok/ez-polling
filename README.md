@@ -1,6 +1,6 @@
 # EZ Polling(Built with Python and Django)
 
-![Bridge School Survey](bridgeSurvey.gif)
+![Bridge School Survey](bridgeSchoolSurvey.gif)
 
 # Overview
 
@@ -26,6 +26,9 @@ I created an EZ Polling is web application which will allow an administrator fro
 
 **5. Display result:**  
     Students and the administrator both are able to see the result
+
+**6. Display result chart:**  
+    Results is shown using a bar chart
 
 # How to run
 
