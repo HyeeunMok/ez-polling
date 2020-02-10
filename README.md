@@ -1,41 +1,41 @@
-# EZ Polling(Built with Python and Django)
+# EZ Polling (Built with Python and Django)
 
 ![Bridge School Survey](bridgeSchoolSurvey.gif)
 
 # Overview
 
-Bridge School always do their survey from students when each cohort finishes. 
+Bridge School always does their surveys at the end of each cohort. 
 
 # Purpose
 
-I created an EZ Polling is web application which will allow an administrator from  Bridge School to create survey questions and view survey results. Students can vote from student view page.
+I created an EZ Polling web application which will allow an administrator from Bridge School to create survey questions and view the survey results. Students can vote from the student view page.
 
 # Functionalities:
 
 **1. Different view pages for students and the administrator :**  
-&nbsp; &nbsp; * Added the admin's email and password to make sure only admin can reach to admin page <br />
+    Added the admin's email and password to make sure only admins can reach the admin page 
 
 **2.  Add questions:**  
-    Be able to add questions in admin page
+    Able to add questions on the admin page
 
 **3. Edit and delete questions:**  
-    Be able to edit and delete questions in admin page
+    Able to edit and delete questions on the admin page
 
 **4. Vote**  
-    Students can select their answers for each questions
+    Students can select their answers for each question
 
 **5. Display result:**  
-    Students and the administrator both are able to see the result
+    Students and administrators are both able to see results
 
 **6. Display result chart:**  
-    Results is shown using a bar chart
+    Results are shown using a bar chart
 
 # How to run
 
-**\# Install dependencies** <br />
+**\# Install dependencies** 
 pipenv install
 
-cd ez_polling <br />
+cd ez_polling 
 
-**\# Serve on localhost:8000** <br />
+**\# Serve on localhost:8000** 
 python manage.py runserver
