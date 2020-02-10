@@ -32,10 +32,10 @@ I created an EZ Polling web application which will allow an administrator from B
 
 # How to run
 
-**\# Install dependencies** 
+**\# Install dependencies**  
 pipenv install
 
 cd ez_polling 
 
-**\# Serve on localhost:8000** 
+**\# Serve on localhost:8000**  
 python manage.py runserver
